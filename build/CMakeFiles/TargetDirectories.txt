@@ -1,3 +1,0 @@
-C:/Users/AhmadYahya/Desktop/coding-task/build/CMakeFiles/coding_task.dir
-C:/Users/AhmadYahya/Desktop/coding-task/build/CMakeFiles/edit_cache.dir
-C:/Users/AhmadYahya/Desktop/coding-task/build/CMakeFiles/rebuild_cache.dir

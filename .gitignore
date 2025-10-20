@@ -1,0 +1,7 @@
+# Ignore build outputs
+/build/
+/.vscode/
+*.exe
+*.obj
+*.o
+*.log
