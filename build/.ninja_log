@@ -1,0 +1,7 @@
+# ninja log v7
+81	192	7826776142001667	CMakeFiles/coding_task.dir/src/main.c.obj	d0e0b0cfb750cfe4
+43	161	7826761909223529	CMakeFiles/coding_task.dir/src/mylib.c.obj	67072e9a73153f22
+137	277	7826767153425463	coding_task.exe	7208b6bd434d32dd
+49	165	7826766761345670	CMakeFiles/coding_task.dir/src/subtract.c.obj	cc2b24b69c35302d
+19	99	7826776634481751	CMakeFiles/coding_task.dir/src/mylib.c.obj	67072e9a73153f22
+100	227	7826776635280120	coding_task.exe	e6f36f0e401db349
